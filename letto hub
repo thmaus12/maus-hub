@@ -27,7 +27,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/T
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/Tienvn123tkvn/Test/main/ZierhubfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "letto hub",
+    Title = "zeno hub",
     SubTitle = "by scriptmausrb",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
@@ -7869,7 +7869,7 @@ Tabs.profile:AddParagraph({
     })
   
 Tabs.profile:AddParagraph({
-        Title = "link TikTok letto hub",
+        Title = "link TikTok zeno hub",
         Content = "https://www.tiktok.com/@THMAUS12"
     })      
 --------------------------------------------------------------------------------------------------------------------------------------------
